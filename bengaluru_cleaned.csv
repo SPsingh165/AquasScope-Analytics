@@ -1,0 +1,203 @@
+ward_number,area_name,connections,consumption_ml,city,state,area_type,reporting_period,period_basis,consumption_litres,daily_consumption_ml,capacity_litres_per_day,network_coverage_pct,litres_per_connection
+1,Kempegowda Ward,4418,109.74,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,109740000.0,,,,24839.293798098686
+2,Chowdeshwari Ward,467,56.01,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,56010000.0,,,,119935.7601713062
+3,Attur,6800,171.05,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,171050000.0,,,,25154.41176470588
+4,Yelahanka Satellite town,7814,368.22,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,368220000.0,,,,47123.112362426415
+5,Jakkur,4165,110.83,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,110830000.0,,,,26609.84393757503
+6,Thanisandra,4794,88.4,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,88400000.0,,,,18439.71631205674
+7,Byatarayanapura,9781,285.57,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,285570000.0,,,,29196.401185972805
+8,Kodigehalli,5529,130.32,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,130320000.0,,,,23570.265870862724
+9,Vidyaranyapura,12972,274.02,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,274020000.0,,,,21123.959296947272
+10,Doddabommasandra,1921,30.17,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,30170000.0,,,,15705.361790733992
+11,Kuvempunagar,4640,64.55,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,64550000.0,,,,13911.637931034482
+12,Shettyhalli,11814,180.95,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,180950000.0,,,,15316.57355679702
+13,Mallasandra,4565,62.17,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,62170000.0,,,,13618.838992332969
+14,Bagalagunte,8844,208.85,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,208850000.0,,,,23614.88014473089
+14,sidedahalli,1628,40.44,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,40440000.0,,,,24840.29484029484
+15,T. Dasarahalli,4603,133.91,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,133910000.0,,,,29091.896589180968
+16,Jalahalli,3117,89.21,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,89210000.0,,,,28620.4683991017
+17,J.P.Park,5749,120.05,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,120050000.0,,,,20881.892503044008
+18,Radhakrishna Temple Ward,5513,91.1,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,91100000.0,,,,16524.578269544712
+19,Sanjaynagar,5841,82.66,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,82660000.0,,,,14151.686355076186
+20,Ganganagar,3351,70.47,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,70470000.0,,,,21029.543419874663
+21,Hebbal,7512,160.69,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,160690000.0,,,,21391.107561235356
+22,VishwanathNagenahalli,3290,73.64,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,73640000.0,,,,22382.978723404256
+23,Nagavara,9267,187.37,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,187370000.0,,,,20219.05686845797
+24,HBR Layout,8252,236.07,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,236070000.0,,,,28607.610276296655
+25,Horamavu,16181,165.27,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,165270000.0,,,,10213.831036400717
+26,Ramamurthynagar,9578,245.88,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,245880000.0,,,,25671.330131551473
+27,Banasawadi,9718,260.34,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,260339999.99999997,,,,26789.46285243877
+28,Kammanahalli,6641,167.48,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,167480000.0,,,,25219.093510013554
+29,Kacharakanahalli,4902,120.16,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,120160000.0,,,,24512.443900448798
+30,Kadugondanahalli,5174,128.6,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,128600000.0,,,,24855.044453034403
+31,Kushalnagar,3147,54.1,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,54100000.0,,,,17190.975532252938
+32,Kavalbyrasandra,5595,103.15,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,103150000.0,,,,18436.1036639857
+33,Manorayanapalya,2742,60.88,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,60880000.0,,,,22202.771699489425
+34,Gangenahalli,2324,47.61,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,47610000.0,,,,20486.230636833046
+35,Aramane Nagar,2976,76.86,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,76860000.0,,,,25826.612903225807
+36,Mathikere,4158,87.41,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,87410000.0,,,,21022.126022126024
+37,Yeshwanthpur,3239,59.3,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,59300000.0,,,,18308.11979005866
+38,H.M.T,3695,136.51,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,136510000.0,,,,36944.519621109604
+39,Chokkasandra,5838,133.8,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,133800000.00000001,,,,22918.807810894144
+40,Doddabidirakalu,1,0.0,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,0.0,,,,0.0
+41,Peenya Industrial Area,10886,236.64,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,236640000.0,,,,21738.01212566599
+42,Lakshmidevinagar,5165,107.14,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,107140000.0,,,,20743.46563407551
+43,Nandini Layout,6476,151.01,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,151010000.0,,,,23318.406423718345
+44,Marappanahalli,4451,110.91,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,110910000.0,,,,24917.99595596495
+45,Malleshwaram,3662,98.22,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,98220000.0,,,,26821.409066084107
+46,Jayachamarajendra Nagar,5336,178.74,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,178740000.0,,,,33497.00149925038
+47,Devarajeevanahalli,3784,79.48,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,79480000.0,,,,21004.228329809725
+48,Muneshwaranagar,2190,34.67,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,34670000.0,,,,15831.050228310502
+49,Lingarajapura,5774,91.75,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,91750000.0,,,,15890.197436785591
+50,Benniganahalli,5874,361.26,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,361260000.0,,,,61501.53217568948
+51,Vijinapura,6346,122.86,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,122860000.0,,,,19360.22691459187
+52,K.R.Puram,8953,173.05,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,173050000.0,,,,19328.71663129677
+53,Basavanapura,8707,201.81,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,201810000.0,,,,23177.902836797977
+54,Hoodi,5427,343.15,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,343150000.0,,,,63230.14556845403
+55,Devasandra,3364,84.27,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,84270000.0,,,,25050.535077288943
+56,A. Narayanapura,8456,220.21,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,220210000.0,,,,26041.8637653737
+57,C.V. Ramannagar,3324,73.92,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,73920000.0,,,,22238.26714801444
+58,Hosathippasandra,6026,144.13,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,144130000.0,,,,23918.021905077996
+59,Maruthiseva Nagar,5590,158.47,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,158470000.0,,,,28348.837209302324
+60,Sagayapuram,4268,90.41,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,90410000.0,,,,21183.223992502342
+61,S.K. Garden,2875,74.27,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,74270000.0,,,,25833.043478260868
+62,Ramaswamy palya,3131,73.42,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,73420000.0,,,,23449.377195784095
+63,Jayamahal,3085,117.16,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,117160000.0,,,,37977.3095623987
+64,Rajamahal,3702,84.92,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,84920000.0,,,,22938.951917882227
+65,Kadumalleshwara,5615,146.84,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,146840000.0,,,,26151.380231522708
+66,Subramanyanagar,4292,113.37,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,113370000.0,,,,26414.25908667288
+67,Nagapura,5814,168.34,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,168340000.0,,,,28954.24836601307
+68,Mahalakshmipuram,5114,127.69,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,127690000.0,,,,24968.713335940556
+69,Laggere,10211,230.88,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,230880000.0,,,,22610.909803153463
+70,Rajagopalanagar,8396,181.46,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,181460000.0,,,,21612.672701286327
+71,Hegganahalli,8695,219.79,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,219790000.0,,,,25277.74583093732
+72,herohalli,11904,246.36,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,246360000.0,,,,20695.564516129034
+73,Kottigepalya,8532,199.53,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,199530000.0,,,,23386.07594936709
+74,Shakthiganapathi nagar,6112,149.78,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,149780000.0,,,,24505.890052356022
+75,Shankaramata,5220,142.0,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,142000000.0,,,,27203.065134099616
+76,Gayathrinagar,4385,111.43,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,111430000.0,,,,25411.630558722918
+77,Dattathreya Temple,4485,109.83,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,109830000.0,,,,24488.29431438127
+78,Pulikeshinagar,3641,119.25,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,119250000.0,,,,32751.991211205714
+79,Sarvagnanagar,3370,73.15,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,73150000.0,,,,21706.231454005934
+80,Hoysalanagar,5458,150.06,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,150060000.0,,,,27493.587394650054
+81,Vignananagar,7194,197.57,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,197570000.0,,,,27463.163747567418
+82,Garudacharpalya,4388,174.66,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,174660000.0,,,,39804.01093892434
+83,Kadugodi,1149,57.36,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,57360000.0,,,,49921.671018276764
+84,Hagadooru,2020,109.88,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,109880000.0,,,,54396.039603960395
+85,Doddanekkundi,5804,313.53,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,313530000.0,,,,54019.64162646451
+85,Varthur,2403,102.27,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,102270000.0,,,,42559.30087390762
+86,Marathalli,4784,156.37,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,156370000.0,,,,32686.036789297657
+87,HAL Airport,4379,88.0,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,88000000.0,,,,20095.91230874629
+88,Jeevanbhimanagar,5997,140.86,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,140860000.0,,,,23488.41087210272
+89,Jogupalya,4062,124.2,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,124200000.0,,,,30576.070901033974
+90,Ulsoor,5628,305.96,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,305960000.0,,,,54363.894811656006
+91,Bharathinagar,2252,112.97,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,112970000.0,,,,50164.29840142096
+92,Shivajinagar,5175,211.81,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,211810000.0,,,,40929.46859903382
+93,Vasanthnagar,3749,259.19,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,259190000.0,,,,69135.76953854361
+94,Gandhinagar,4789,350.94,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,350940000.0,,,,73280.43432866987
+95,Subhashnagar,3090,61.87,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,61870000.0,,,,20022.653721682847
+96,Okalipuram,3420,122.64,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,122640000.0,,,,35859.649122807015
+97,Dayanandanagar,3507,81.66,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,81660000.0,,,,23284.85885372113
+98,Prakashnagar,3078,78.84,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,78840000.0,,,,25614.035087719298
+99,Rajajinagar,3955,108.69,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,108690000.0,,,,27481.668773704172
+100,Basaveshwaranagar,5779,158.23,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,158230000.0,,,,27380.169579512025
+101,Kamakshipalya,3686,91.11,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,91110000.0,,,,24717.851329354315
+102,Vrushabhavathi Nagar,4190,96.2,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,96200000.0,,,,22959.427207637233
+103,Kaveripura,5040,101.06,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,101060000.0,,,,20051.5873015873
+104,Govindrajnagara,2921,75.32,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,75320000.0,,,,25785.68983224923
+105,Agrahara Dasarahalli,3220,92.2,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,92200000.0,,,,28633.540372670806
+106,Dr. Rajkumar Ward,2471,76.88,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,76880000.0,,,,31112.90975313638
+107,Shivanagar,2458,85.37,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,85370000.0,,,,34731.48901545972
+108,Srirammandira ward,4680,112.16,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,112160000.0,,,,23965.811965811965
+109,Chikpet,5622,107.59,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,107590000.0,,,,19137.31768054073
+110,Sampangiramnagar,3024,128.43,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,128430000.0,,,,42470.23809523809
+111,Shanthala Nagar,3780,218.11,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,218110000.0,,,,57701.0582010582
+112,Dommalur,4801,184.44,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,184440000.0,,,,38416.99645907103
+113,Konena Agrahara,3947,121.08,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,121080000.0,,,,30676.46313655941
+114,Agaram,2927,136.18,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,136180000.0,,,,46525.45268192689
+115,Vannarpet,5168,101.91,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,101910000.0,,,,19719.427244582042
+116,Neelasandra,2655,60.54,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,60540000.0,,,,22802.25988700565
+117,Shanthinagar,6222,227.44,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,227440000.0,,,,36554.162648666024
+118,Sudamnagar,5150,90.65,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,90650000.0,,,,17601.941747572815
+119,Dharmarayaswamy Temple Ward,4999,96.41,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,96410000.0,,,,19285.857171434287
+120,Cottonpet,3090,62.9,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,62900000.0,,,,20355.98705501618
+121,Binnypet,4581,94.77,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,94770000.0,,,,20687.62278978389
+122,Kempapura Agrahara,3965,85.25,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,85250000.0,,,,21500.63051702396
+123,Vijaynagar,3639,82.48,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,82480000.0,,,,22665.567463588897
+124,Hosahalli,4521,104.46,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,104460000.0,,,,23105.507631055076
+125,Marenahalli,3433,87.54,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,87540000.0,,,,25499.563064375183
+126,Maruthi Mandira Ward,4028,98.37,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,98370000.0,,,,24421.54915590864
+127,Moodalapalya,5885,125.57,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,125570000.0,,,,21337.29821580289
+128,Nagarabhavi,10971,254.74,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,254740000.0,,,,23219.396591012668
+129,Jnanabharathi ward,14008,324.23,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,324230000.0,,,,23146.05939463164
+130,Ullalu,9574,191.81,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,191810000.0,,,,20034.468351786087
+131,Nayandanahalli,4405,126.93,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,126930000.0,,,,28814.982973893304
+132,Attiguppe,5502,165.17,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,165170000.0,,,,30019.992729916394
+133,Hampinagar,3038,77.18,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,77180000.0,,,,25404.871626069784
+134,Bapujinagar,4504,130.22,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,130220000.0,,,,28912.078152753107
+135,Padarayanapura,2035,68.73,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,68730000.0,,,,33773.95577395577
+136,Jagareevanram Nagar,4827,122.62,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,122620000.0,,,,25402.941785788273
+137,Rayapuram,3456,75.61,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,75610000.0,,,,21877.89351851852
+138,Chalavadipalya,2389,50.62,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,50620000.0,,,,21188.781917120134
+139,K.R. Market,2930,52.42,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,52420000.0,,,,17890.784982935154
+140,Chamrajpet,4778,164.06,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,164060000.0,,,,34336.542486395985
+141,Azadnagar,4022,108.93,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,108930000.0,,,,27083.540527100944
+142,Sunkenahalli,2902,63.4,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,63400000.0,,,,21847.002067539626
+143,Vishweshrapuram,4750,105.76,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,105760000.0,,,,22265.263157894737
+144,Siddapura,4485,108.95,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,108950000.0,,,,24292.084726867335
+145,Hombegowdanagar,6565,188.67,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,188670000.0,,,,28738.766184310738
+146,Lakkasandra,2838,85.67,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,85670000.0,,,,30186.75123326286
+147,Adugodi,3428,112.91,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,112910000.0,,,,32937.57292882147
+148,Ejipura,4800,140.03,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,140030000.0,,,,29172.916666666668
+149,Varthur,3327,145.63,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,145630000.0,,,,43772.16711752329
+150,Bellandur,6329,399.28,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,399280000.0,,,,63087.37557276031
+151,Koramangala,7202,310.26,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,310260000.0,,,,43079.70008331019
+152,Sudduguntepalya,4089,150.6,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,150600000.0,,,,36830.520909757885
+153,Jayanagar,344,7.86,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,7860000.0,,,,22848.837209302324
+153,Jayangar,3659,137.48,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,137480000.0,,,,37573.10740639519
+154,Basavanagudi,5818,132.53,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,132530000.0,,,,22779.305603300105
+155,Hanumanthanagar,4147,87.73,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,87730000.0,,,,21155.051844707017
+156,Srinagar,5692,141.35,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,141350000.0,,,,24833.099086437105
+157,Gali Anjaneya swamy Temple Ward,5408,133.31,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,133310000.0,,,,24650.51775147929
+158,Deepanjali Nagar,2942,79.75,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,79750000.0,,,,27107.409925220938
+159,Kengeri,14794,289.48,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,289480000.0,,,,19567.39218602136
+160,Rajarajeshwarinagar,17021,422.05,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,422050000.0,,,,24795.840432407025
+161,Hosakerehalli,7397,172.47,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,172470000.0,,,,23316.20927403001
+162,Girinagar,7756,178.72,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,178720000.0,,,,23042.80556988138
+163,Katriguppe,6550,131.17,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,131169999.99999999,,,,20025.95419847328
+164,Vidyapeetha Ward,4769,97.38,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,97380000.0,,,,20419.375131054727
+165,Ganeshmandira Ward,4568,109.01,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,109010000.0,,,,23863.8353765324
+166,Karisandra,4671,113.42,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,113420000.0,,,,24281.73838578463
+167,Yadiyuru,4417,99.77,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,99770000.0,,,,22587.729227982793
+168,Pattabhiramnagar,4320,130.88,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,130880000.0,,,,30296.296296296296
+169,Byrasandra,3854,110.75,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,110750000.0,,,,28736.37778930981
+170,Jayanagar East,3890,97.28,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,97280000.0,,,,25007.71208226221
+171,Gurappanapalya,4072,187.08,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,187080000.0,,,,45943.02554027505
+172,Madiwala,5616,169.93,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,169930000.0,,,,30258.190883190884
+173,Jakkasandra,2858,117.87,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,117870000.0,,,,41242.12736179146
+174,HSR Layout,14280,545.35,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,545350000.0,,,,38189.775910364144
+175,Bommanahalli,6674,262.12,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,262120000.0,,,,39274.797722505245
+176,BTM Layout,7593,252.5,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,252500000.0,,,,33254.313183195045
+177,J.P.Nagar,5648,162.65,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,162650000.0,,,,28797.804532577902
+178,Sarakki,5629,165.82,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,165820000.0,,,,29458.163084029136
+179,Shakambarinagar,3787,104.31,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,104310000.0,,,,27544.23026142065
+180,Banashankari Temple Ward,5205,112.21,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,112210000.0,,,,21558.117195004805
+181,Kumaraswamy Layout,8445,242.02,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,242020000.0,,,,28658.37773830669
+182,Padmanabhanagar,6048,159.96,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,159960000.0,,,,26448.4126984127
+183,Chikkallasandra,5195,120.54,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,120540000.0,,,,23203.079884504332
+184,Uttarahalli,9787,296.9,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,296900000.0,,,,30336.160212526822
+185,Yelachenahalli,7105,180.07,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,180070000.0,,,,25344.123856439128
+186,Jaraganahalli,3074,77.46,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,77460000.0,,,,25198.438516590762
+187,Puttenahalli,4713,145.7,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,145700000.0,,,,30914.491831105453
+188,Bilekahalli,4412,232.93,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,232930000.0,,,,52794.65095194923
+189,Hongasandra,8478,328.64,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,328640000.0,,,,38763.859400802074
+190,Mangammanapalya,3380,88.99,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,88990000.0,,,,26328.402366863906
+191,Singasandra,4790,182.52,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,182520000.0,,,,38104.38413361169
+191,Singsandra,1157,43.86,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,43860000.0,,,,37908.38375108038
+192,Begur,7589,326.2,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,326200000.0,,,,42983.26525233891
+193,Arakere,10130,336.18,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,336180000.0,,,,33186.57453109576
+194,Gottigere,4701,104.39,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,104390000.0,,,,22205.913635396722
+195,Konanakunte,10337,283.26,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,283260000.0,,,,27402.534584502275
+196,Anjanapura,10279,398.77,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,398770000.0,,,,38794.62982780426
+197,Vasanthapura,4296,127.33,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,127330000.0,,,,29639.199255121042
+198,Hemmigepura,6056,142.71,Bengaluru,Karnataka,Ward,Mar 2026 (filename),Not verified,142710000.0,,,,23565.059445178336

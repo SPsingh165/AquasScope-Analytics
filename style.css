@@ -1,0 +1,347 @@
+/* ==========================================
+   AQUASCOPE DASHBOARD
+   ========================================== */
+
+:root {
+    --bg: #071321;
+    --sidebar: #0b1d2e;
+    --panel: #11283d;
+    --border: #285268;
+    --cyan: #43dccc;
+    --text: #edf7ff;
+    --muted: #a3c0d0;
+}
+
+/* ==========================================
+   MAIN BACKGROUND
+   ========================================== */
+
+html, body, .stApp {
+    background: #071321 !important;
+    color: var(--text) !important;
+}
+
+.stApp {
+    background:
+        radial-gradient(
+            ellipse at 85% 0%,
+            #103248,
+            transparent 40%
+        ),
+        #071321 !important;
+}
+
+.block-container {
+    max-width: 1500px;
+    padding-top: 1rem !important;
+    padding-bottom: 3rem !important;
+}
+
+/* ==========================================
+   REMOVE STREAMLIT TOP BAR
+   ========================================== */
+
+[data-testid="stHeader"] {
+    display: none !important;
+}
+
+[data-testid="stToolbar"],
+[data-testid="stAppDeployButton"],
+[data-testid="stMainMenu"],
+#MainMenu,
+[data-testid="stDecoration"] {
+    display: none !important;
+}
+
+footer {
+    display: none !important;
+}
+
+
+/* =====================================
+   CUSTOM MENU BUTTON
+   ===================================== */
+
+.st-key-custom_menu_button button {
+    background: #087f8c !important;
+    color: #ffffff !important;
+    border: 2px solid #5cf3e0 !important;
+    border-radius: 12px !important;
+    padding: 11px 22px !important;
+    font-size: 15px !important;
+    font-weight: 700 !important;
+    box-shadow: 0 4px 16px #00000035;
+}
+
+.st-key-custom_menu_button button:hover {
+    background: #1199a4 !important;
+    border-color: #85fff0 !important;
+    color: #ffffff !important;
+}
+
+/* Custom navigation panel */
+
+[data-testid="stVerticalBlockBorderWrapper"] {
+    border-color: #285268 !important;
+    border-radius: 15px !important;
+}
+
+/* Navigation choices */
+
+[role="radiogroup"] label {
+    background: #112a3e;
+    border: 1px solid #294a5f;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 6px;
+}
+
+[role="radiogroup"] label:hover {
+    background: #1a4051;
+}
+
+[role="radiogroup"] label:has(input:checked) {
+    background: #14505a;
+    border-color: #43dccc;
+}
+
+
+/* ==========================================
+   SIDEBAR
+   ========================================== */
+
+[data-testid="stSidebar"] {
+    background:
+        linear-gradient(
+            180deg,
+            #0c2236,
+            #081626
+        ) !important;
+    border-right: 1px solid var(--border);
+}
+
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3 {
+    color: white !important;
+}
+
+[data-testid="stSidebar"] p {
+    color: #b8d0dd;
+}
+
+[data-testid="stSidebar"] [role="radiogroup"] {
+    gap: 9px;
+}
+
+[data-testid="stSidebar"] [role="radiogroup"] label {
+    background: #112a3e;
+    border: 1px solid #294a5f;
+    border-radius: 11px;
+    padding: 12px;
+    cursor: pointer;
+}
+
+[data-testid="stSidebar"] [role="radiogroup"] label:hover {
+    background: #1a4051;
+}
+
+[data-testid="stSidebar"]
+[role="radiogroup"]
+label:has(input:checked) {
+    background: #14505a;
+    border-color: var(--cyan);
+}
+
+[data-testid="stSidebar"]
+[role="radiogroup"] label p {
+    color: #eaf8ff !important;
+}
+
+/* ==========================================
+   DROPDOWNS
+   ========================================== */
+
+div[data-baseweb="select"] > div {
+    background: #142e43 !important;
+    border: 1px solid #36566c !important;
+    border-radius: 10px !important;
+}
+
+div[data-baseweb="select"] * {
+    color: white !important;
+}
+
+div[data-baseweb="menu"] {
+    background: #142e43 !important;
+}
+
+div[data-baseweb="menu"] li {
+    background: #142e43 !important;
+    color: white !important;
+}
+
+div[data-baseweb="menu"] li:hover {
+    background: #24566a !important;
+}
+
+/* ==========================================
+   PASSWORD INPUT
+   ========================================== */
+
+div[data-baseweb="input"] > div {
+    background: #142e43 !important;
+    border: 1px solid #36566c !important;
+    border-radius: 10px !important;
+}
+
+div[data-baseweb="input"] input {
+    color: white !important;
+    -webkit-text-fill-color: white !important;
+    background: transparent !important;
+}
+
+/* ==========================================
+   HERO HEADER
+   ========================================== */
+
+.hero {
+    background:
+        linear-gradient(
+            110deg,
+            #123d52,
+            #0b2337
+        );
+    border: 1px solid #2b6177;
+    border-radius: 18px;
+    padding: 25px 30px;
+    margin: 15px 0 22px;
+}
+
+.hero h1 {
+    color: white !important;
+    font-size: 2.2rem;
+    font-weight: 800;
+    margin: 7px 0;
+}
+
+.hero p {
+    color: #b8d6e4;
+    font-size: 0.95rem;
+    margin-bottom: 0;
+}
+
+.eyebrow {
+    color: #58e4d6;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+/* ==========================================
+   KPI CARDS
+   ========================================== */
+
+[data-testid="stMetric"] {
+    background:
+        linear-gradient(
+            145deg,
+            #133047,
+            #0e2235
+        );
+    border: 1px solid #28536a;
+    border-radius: 15px;
+    padding: 20px;
+    min-height: 125px;
+    box-shadow: 0 8px 22px #00000020;
+}
+
+[data-testid="stMetricValue"] {
+    color: #53e3d3 !important;
+}
+
+[data-testid="stMetricLabel"] {
+    color: #b4cfdd !important;
+}
+
+/* ==========================================
+   BUTTONS AND TABLES
+   ========================================== */
+
+.stButton button,
+.stDownloadButton button {
+    background: #127f84;
+    color: white !important;
+    border: 1px solid #259d9f;
+    border-radius: 10px;
+}
+
+.stButton button:hover,
+.stDownloadButton button:hover {
+    background: #1da7a5;
+    color: white !important;
+}
+
+[data-testid="stDataFrame"] {
+    border: 1px solid #28536a;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+[data-testid="stAlert"] {
+    border-radius: 12px;
+}
+
+hr {
+    border-color: #29495e;
+}
+
+
+
+/* ==========================================
+   FIX EXPLORE ANALYTICS NAVIGATION TEXT
+   ========================================== */
+
+/* All navigation options */
+div[data-testid="stRadio"] [role="radiogroup"] label {
+    background-color: #112a3e !important;
+    border: 1px solid #294a5f !important;
+    border-radius: 12px !important;
+    padding: 12px 14px !important;
+    cursor: pointer !important;
+}
+
+/* Make option text bright white */
+div[data-testid="stRadio"] [role="radiogroup"] label p,
+div[data-testid="stRadio"] [role="radiogroup"] label span {
+    color: #ffffff !important;
+    opacity: 1 !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+}
+
+/* Selected navigation option */
+div[data-testid="stRadio"] [role="radiogroup"]
+label:has(input:checked) {
+    background-color: #14505a !important;
+    border: 1px solid #43dccc !important;
+}
+
+/* Selected option text */
+div[data-testid="stRadio"] [role="radiogroup"]
+label:has(input:checked) p,
+div[data-testid="stRadio"] [role="radiogroup"]
+label:has(input:checked) span {
+    color: #65fff0 !important;
+    font-weight: 700 !important;
+}
+
+/* Hover effect */
+div[data-testid="stRadio"] [role="radiogroup"] label:hover {
+    background-color: #1c4557 !important;
+    border-color: #43dccc !important;
+}
+
+/* Radio button accent */
+div[data-testid="stRadio"] input[type="radio"] {
+    accent-color: #43dccc !important;
+}
